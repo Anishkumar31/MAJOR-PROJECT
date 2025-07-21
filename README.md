@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/2eee2982-a1ad-43a9-b5c7-999093c66123
+
 <img width="957" height="539" alt="From Handwriting to HypertexA Seamless Approach to Digital Text Conversion" src="https://github.com/user-attachments/assets/84e366c6-6cf1-4cc4-aa1e-0efb559f8275" />
 <img width="957" height="539" alt="From Handwriting to HypertexA Seamless Approach to Digital Text Conversion" src="https://github.com/user-attachments/assets/6b3703a7-efc2-456c-ad76-e5480a34f9ab" />
 # MAJOR-PROJECT
